@@ -1,0 +1,13 @@
+# SecurePassAnalyzer — Python dependencies
+#
+# This project intentionally uses only the Python standard library
+# so there are no third-party packages to install.
+#
+# Python ≥ 3.10 is required (uses | union types and match syntax).
+#
+# Optional extras (uncomment to enable):
+# ---------------------------------------------------------------------------
+# colorama>=0.4.6        # Windows ANSI colour support (auto-used by main.py)
+# rich>=13.0             # Enhanced terminal rendering (future upgrade path)
+# pytest>=8.0            # For running the test suite
+# pytest-cov>=5.0        # Test coverage reporting
